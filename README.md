@@ -1,2 +1,1 @@
-# life
-photo
+# My life
